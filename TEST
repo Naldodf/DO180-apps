@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-DO180
-=======
-OCP4
->>>>>>> 70e918b4cbb097c040c1a9009c724cf64a18e97d
+RHT_OCP4_MASTER_API=https://api.na410.prod.nextcle.com:6443
+RHT_OCP4_WILDCARD_DOMAIN=apps.na410.prod.nextcle.com
+RHT_OCP4_NEXUS_SERVER=nexus-common.apps.na410.prod.nextcle.com
+RHT_OCP4_DEV_USER=cxdfqk
+RHT_OCP4_DEV_PASSWORD=13d96127c53346939439
+RHT_OCP4_GITHUB_USER=Naldodf
+RHT_OCP4_QUAY_USER=naldo_df
